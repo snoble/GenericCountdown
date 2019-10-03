@@ -1,0 +1,19 @@
+{
+  "name": "generic-countdown",
+  "version": "1.0.0",
+  "description": "It's the final countdown",
+  "main": "app.js",
+  "repository": "https://github.com/snoble/GenericCountdown",
+  "author": "Steven Klaiber-Noble",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=10 <11"
+  }
+}
